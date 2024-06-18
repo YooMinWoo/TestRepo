@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("코드라인 브랜치!");
+        System.out.println("메인 브런치!!");
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
